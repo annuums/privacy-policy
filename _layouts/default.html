@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="{{ site.lang | default: 'ko' }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
+  <meta name="description" content="{{ page.description | default: site.description }}">
+  <link rel="stylesheet" href="{{ '/assets/style.css' | relative_url }}">
+</head>
+<body>
+  <header class="site-header">
+    <a href="{{ '/' | relative_url }}">{{ site.title }}</a>
+  </header>
+  <main class="content">
+    {% if page.collection == 'policies' %}
+      <h1>{{ page.title }}</h1>
+      <p class="meta">
+        {% if page.effective_date %}시행일: {{ page.effective_date }}{% endif %}
+        {% if page.last_updated %} · 최종 수정일: {{ page.last_updated }}{% endif %}
+      </p>
+    {% endif %}
+    {{ content }}
+  </main>
+  <footer class="site-footer">© {{ 'now' | date: '%Y' }} Annuums</footer>
+</body>
+</html>

@@ -1,0 +1,25 @@
+title: Annuums 개인정보처리방침
+description: Annuums 서비스별 개인정보처리방침
+lang: ko
+url: https://annuums.github.io
+baseurl: /privacy-policy
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  auto_ids: true
+
+collections:
+  policies:
+    output: true
+    permalink: /:name/
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+
+exclude:
+  - README.md
+  - TEMPLATE.md
