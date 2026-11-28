@@ -1,11 +1,11 @@
 ---
 title: "Backpressure 개인정보처리방침"
 effective_date: 2026-11-27
-last_updated: 2026-11-27
+last_updated: 2026-11-28
 description: "Backpressure 게임의 개인정보처리방침 (Privacy Policy)"
 ---
 
-짧은머리 개발자(이하 "개발자")는 「개인정보 보호법」 등 관련 법령을 준수하며, 게임 Backpressure(이하 "게임") 이용자의 개인정보를 보호하기 위해 다음과 같이 개인정보처리방침을 수립·공개합니다.
+Annuums(이하 "개발자")는 「개인정보 보호법」 등 관련 법령을 준수하며, 게임 Backpressure(이하 "게임") 이용자의 개인정보를 보호하기 위해 다음과 같이 개인정보처리방침을 수립·공개합니다.
 
 **요약: 게임은 개인정보를 수집하지 않습니다.** 인터넷에 연결하지 않고 완전히 오프라인으로 동작하며, 계정·광고·분석 도구·인앱 결제가 없습니다.
 
@@ -76,7 +76,7 @@ description: "Backpressure 게임의 개인정보처리방침 (Privacy Policy)"
 
 ## 10. 개인정보 보호책임자
 
-- 성명: 짧은머리 개발자
+- 서비스 제공자: Annuums
 - 연락처: ralsghks@gmail.com
 
 ## 11. 개인정보처리방침의 변경
@@ -89,7 +89,7 @@ description: "Backpressure 게임의 개인정보처리방침 (Privacy Policy)"
 
 **Backpressure Privacy Policy** — Effective date: November 27, 2026
 
-짧은머리 개발자 ("we") makes and provides the game Backpressure (the "Game"). This policy explains how the Game handles your information.
+Annuums ("we") makes and provides the game Backpressure (the "Game"). This policy explains how the Game handles your information.
 
 **Summary: the Game collects no personal information.** It works fully offline and has no accounts, ads, analytics, or in-app purchases.
 
